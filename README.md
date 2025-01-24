@@ -10,12 +10,9 @@
 #### I want to learn
 [![Future Skills](https://skillicons.dev/icons?i=java,react,nodejs,tailwind,typescript)](https://skillicons.dev)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Boidheach&show_icons=true&theme=shadow_red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Boidheach&layout=compact&theme=shadow_red)
 
-<a href="https://github.com/L-Boidheach/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=L-Boidheach&show_icons=true&theme=shadow_red" />
-</a>
-<a href="https://github.com/L-Boidheach/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=L-Boidheach&layout=compact&theme=shadow_red" />
-</a>
+
 
 
