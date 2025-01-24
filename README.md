@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩🏼‍💻 Delina Boidheach
 
-<!--
-**L-Boidheach/L-Boidheach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎀 I’m currently learning **Java** and **NodeJs**
+- ✨ I’m looking to collaborate on open source projects
+- 🗺️ I speak English (C1), Hebrew (A2), Portuguese (native) and I study French and Greek
+> "I **code** as if to save somebody’s life. Probably my own. Life is a kind of madness that death makes. Long live the dead because we live in them." ― Clarice Lispector, *A Breath of Life*
 
-Here are some ideas to get you started:
+#### Skills 
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,jquery,git,idea,vscode)](https://skillicons.dev)
+#### I want to learn
+[![Future Skills](https://skillicons.dev/icons?i=java,react,nodejs,tailwind,typescript)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/L-Boidheach/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=L-Boidheach&show_icons=true&theme=shadow_red" />
+</a>
+<a href="https://github.com/L-Boidheach/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=L-Boidheach&layout=compact&theme=shadow_red" />
+</a>
+
+
