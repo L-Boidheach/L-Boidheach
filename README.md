@@ -15,4 +15,6 @@
 
 
 
+[![OracleOne](https://github-readme-stats.vercel.app/api/pin/?username=L-Boidheach&repo=OracleOne&theme=shadow_red)](https://github.com/L-Boidheach/OracleOne)
+
 
