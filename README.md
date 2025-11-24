@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Delina Boidheach
+# 👩🏼‍💻 Lina Boidheach
 
 - 🎀 I’m currently learning **Java** and **NodeJs**
 - ✨ I’m looking to collaborate on open source projects
